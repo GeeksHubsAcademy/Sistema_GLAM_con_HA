@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://github.com/GeeksHubsAcademy/2020-geekshubs-media/blob/master/image/logo.png" >	
+</p>
+
 # Visión general
 
 Se va a construir un cluster para mejorar la disponibilidad de los sistemas, optimizar los tiempos de carga y mejorar la seguridad, todos los servidores se montan sobre Ubuntu 22.04 LTS (Jammy Jellyfish), se construirá en maquinas virtuales en VirtualBox
